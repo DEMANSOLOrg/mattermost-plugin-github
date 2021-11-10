@@ -97,6 +97,15 @@ As a system admin, you must create a webhook for each organization you want to r
 
 If you have multiple organizations, repeat the process starting from step 3 to create a webhook for each organization.
 
+
+
+
+
+
+
+
+
+
 ### Step 3: Configure the Plugin in Mattermost
 
 As a System Admin, if you have an existing Mattermost user account with the name `github`, the plugin will post using the `github` account but without a `BOT` tag.
