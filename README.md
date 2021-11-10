@@ -31,7 +31,17 @@ This guide is intended for Mattermost System Admins setting up the GitHub plugin
 
 ## License
 
-This repository is licensed under the [Apache 2.0 License](https://github.com/mattermost/mattermost-plugin-github/blob/master/LICENSE).
+This repository is licensed under the [Apache 2.0 License](https
+
+
+
+
+
+
+
+
+
+://github.com/mattermost/mattermost-plugin-github/blob/master/LICENSE).
 
 ## About the GitHub Plugin
 
