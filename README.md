@@ -15,6 +15,16 @@ A GitHub plugin for Mattermost. Supports GitHub SaaS and Enterprise versions.
  - [Audience](#audience)
  - [License](#license)
  - [About the GitHub Plugin](#about-the-github-plugin)
+
+
+
+
+
+
+
+
+
+
  - [Before You Start](#before-you-start)
  - [Configuration](#configuration)
  - [Using the Plugin](#using-the-plugin)
