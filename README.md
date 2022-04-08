@@ -161,6 +161,8 @@ Set up your GitHub webhook from the repository instead of the organization. Noti
 
 ### How do I send notifications when a certain label is applied?
 
+
+
 Suppose you want to send notifications to a Mattermost channel when `Severity/Critical` label is applied to any issue in the `mattermost/mattermost-plugin-github` repository. Then, use this command to subscribe to these notifications:
 
 ```
